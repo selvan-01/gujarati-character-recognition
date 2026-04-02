@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail14.png" width="800">
+</p>
+
 # Gujarati Character Recognition using CNN
 
 A Deep Learning based desktop application that recognizes Gujarati characters from images using a Convolutional Neural Network (CNN) with a PyQt5 graphical interface.
@@ -53,6 +57,12 @@ The output layer uses **Softmax activation** for multi-class classification.
 - Deep learning powered recognition
 
 ---
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/gujarati-character-recognition.git)
+- 
 ## Installation
 
 Clone the repository:
